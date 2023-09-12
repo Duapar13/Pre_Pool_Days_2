@@ -6,10 +6,6 @@ Description courte de votre projet en une ou deux phrases.
 
 - [Introduction](#introduction)
 - [Exemples de Code](#exemples-de-code)
-- [Installation](#installation)
-- [Utilisation](#utilisation)
-- [Contribuer](#contribuer)
-- [Licence](#licence)
 
 ## Introduction
 
