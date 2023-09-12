@@ -1,9 +1,8 @@
 import math
-
 def calculer_pi():
     somme = 0
     n = 0
-
+    
     while True:
         terme = ((-1) ** n) / ((2 * n) + 1)
         somme += terme
